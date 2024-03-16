@@ -1,0 +1,14 @@
+### Dependencies:
+- rofi
+- i3
+- neovim
+- feh
+- blueman
+- nerd font
+- pactl
+- xrandr
+- shutter
+- maim
+- xdotool
+- xclip
+- ibus
